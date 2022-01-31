@@ -4,3 +4,5 @@ MIPS Single Cycle Processor Extension with SystemVerilog
 All the files uploaded here are also in EDA Playground. You can run the processor there as well.
 ### **EDA Playground link**
 https://www.edaplayground.com/x/r9vi
+### **Video Documentation**
+https://youtu.be/SVD_oFRgZEw
